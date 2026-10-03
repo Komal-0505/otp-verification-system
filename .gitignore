@@ -1,0 +1,18 @@
+# Backend (Java/Maven)
+backend/target/
+*.class
+
+# Frontend (Node/React)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Secrets
+.env
+*.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
